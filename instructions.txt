@@ -5,5 +5,10 @@ To use:
 4. Now change directory to this folder and run "mysql -u root -p < dump.sql"
 5. Open http://localhost/<folder_name>/login.html to start.
 
+The username for cashier is- 'cashier'
+The username for supervisor is- 'supervisor'
+The initial set password for both cashier and supervisor is- 'iiit123'
+you can change them after respective login
+
 For any queries mail me at
 ashg1910@gmail.com
