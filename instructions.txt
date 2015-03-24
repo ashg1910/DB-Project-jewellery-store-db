@@ -1,0 +1,9 @@
+To use:
+1. You must have PHP, APACHE and MYSQL in your machine.
+2. It is an AMP server. Remove the index.html file at http://localhost/
+3. After this, clone the repo at /var/www/html/, if using linux.
+4. Now change directory to this folder and run "mysql -u root -p < dump.sql"
+5. Open http://localhost/<folder_name>/login.html to start.
+
+For any queries mail me at
+ashg1910@gmail.com
